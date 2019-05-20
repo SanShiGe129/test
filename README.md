@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-测试hello word!
-=======
-#test
->>>>>>> Stashed changes
+这个项目仅作为练习没有实际含义！
